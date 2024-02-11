@@ -1,0 +1,17 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+body {
+  width: 100%;
+  height: 100%;
+  animation: slide 10s ease-in-out infinite alternate;
+  background: #131313;
+  opacity: 0.5;
+  z-index: -1;
+  height: 100%;
+}
+#app {
+  width: 100%;
+  height: 100%;
+}
